@@ -1,4 +1,4 @@
-- 👋 Me llamo Nicolas Barrera, mi apodo es Glitch y mi sobrenombre es Kolminye
+- 👋 Me llamo Nicolas Barrera, me dicen Kolminye o Glitch
 - 👀 Me interesa mucho los juegos el arte y la programacion
 - 🌱 Soy estudiante de Analisis y Programacion des sistema 
 - 💞️ I’m looking to collaborate on ...
